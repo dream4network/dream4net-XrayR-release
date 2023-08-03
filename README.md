@@ -11,7 +11,7 @@ Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-projec
 
 [Tutorial](https://xrayr-project.github.io/XrayR-doc/)
 
-# One-Click installation
+# One-click installation
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/dream4network/dream4net-XrayR-release/master/install.sh)
